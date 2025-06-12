@@ -13,17 +13,17 @@ Resource    ../PageObjects/LoginPage.robot
 TestCase-1
     Start Automation
 
-TestCase-2
-    Login to the website
+Test Case-2
+    Login to the website with invalid credentials
 
 TestCase-3
-    Verify Correct Product Added to Cart
+    Login to the website
 
 TestCase-4
-    Multiple Products Added to Cart
+    Verify Correct Product Added to Cart
 
-Test Case-5
-    Login to the website with invalid credentials
+TestCase-5
+    Multiple Products Added to Cart
 
 Test Case-6
     Stop Automation
